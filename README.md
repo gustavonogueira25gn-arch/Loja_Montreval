@@ -1,2 +1,2 @@
 # Loja_Montreval
-Uma loja inspirada na Zara
+Um e-commerce inspirada na Zara
